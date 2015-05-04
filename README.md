@@ -80,7 +80,7 @@ Gear: File, Camera, Tripod
 
 Actors: Rodger, SAEP
 
-*OVS from Rodgers shoulder, SAEP throws a file to rodger, he catches it.
+*OVS from Rodgers shoulder, SAEP throws a file to rodger, he catches it.*
 -------------------------------------------------------------------------
 
 Scene7: Reading
@@ -108,3 +108,23 @@ Gear: Camera&Tri
 Actors: Rodger
 
 Rodger - I'm in.
+---------------------------------------------------------------------------------------------------------------
+
+Scene10: The plan
+
+gear: camera and tri, some type of audio recorder
+
+*voice over of rodger explaining the plan*
+
+*Camera is fixed on the document on the table as the voiceover speaks*
+
+------------------------------------------------------
+
+Scene 11: 
+
+Gear: Same as before
+
+*Camera fixed on iphone, it starts ringing, it's picked up by a female hand*
+
+Unknown female voice - "They know"
+
