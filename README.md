@@ -10,7 +10,7 @@ Cast:                             -
                                   - 
 ??? - SAEP's sidekick             -
                                   -
-??? - Rodger (The Car Guy)        -
+Taylor - Rodger (The Car Guy)        -
                                   -
 -----------------------------------
 
@@ -127,4 +127,30 @@ Gear: Same as before
 *Camera fixed on iphone, it starts ringing, it's picked up by a female hand*
 
 Unknown female voice - "They know"
+
+------------------------------------------------
+
+Scene 12:
+
+Gear: Vehicle and camera and tripod. 
+
+*Cut to car, spinning tires*
+
+------------------------------------------------
+
+Scene 13:
+
+Gear: ""
+
+*Roger looking angry, driving fast*
+
+------------------------------------------------
+
+Scene 14:
+
+Gear: ""
+
+*
+
+
 
